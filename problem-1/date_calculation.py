@@ -1,6 +1,6 @@
 import datetime
 
-
+# Using python weekday format
 WEDNESDAY = 2
 SATURDAY = 5
 
