@@ -12,6 +12,10 @@ Implement a least recently used (LRU) cache mechanism as a decorator and demonst
     def plus(a, b):
         return a + b
     ```
+2. There's a simple sample file and you can run:
+    ```sh
+    python sample.py
+    ```
 
 ### Tests
 
